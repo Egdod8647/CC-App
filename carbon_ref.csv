@@ -1,5 +1,13 @@
 Category,Activity,Base_Cost,Unit,Swap_Suggestion,Swap_Savings
 Diet,Beef Burger,3000,1 meal,Plant-Based Burger,2400
 Diet,Chicken Meal,800,1 meal,Lentil Soup,600
+Diet,Coffee (Latte),200,1 cup,Black Coffee,180
 Travel,10mi Gas Drive,4000,10 miles,Public Transit,2500
+Travel,Short Flight,150000,1 flight,Train Trip,120000
 Energy,Hot Shower,500,10 mins,Shorten by 5 mins,250
+Energy,Laptop Use,50,1 hour,Tablet/Phone,30
+Energy,Laundry Load,600,1 load,Air Dry,600
+Home,AC (1 hour),1000,1 hour,Electric Fan,950
+Digital,Streaming HD,150,1 hour,Standard Def,100
+Digital,Video Call,20,1 hour,Voice Call,15
+Fashion,New T-Shirt,7000,1 item,Thrifted Shirt,6500
