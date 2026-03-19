@@ -1,0 +1,5 @@
+Category,Activity,Base_Cost,Unit,Swap_Suggestion,Swap_Savings
+Diet,Beef Burger,3000,1 meal,Plant-Based Burger,2400
+Diet,Chicken Meal,800,1 meal,Lentil Soup,600
+Travel,10mi Gas Drive,4000,10 miles,Public Transit,2500
+Energy,Hot Shower,500,10 mins,Shorten by 5 mins,250
